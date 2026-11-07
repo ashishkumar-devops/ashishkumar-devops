@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devopsbyashish/devopsbyashish/main/stars-banner.svg" width="100%" alt="Ashish Kumar - Cloud &amp; DevOps Engineer"/>
+<img src="https://raw.githubusercontent.com/devopsbyashish/devopsbyashish/main/ashishkumar-devops.png" width="100%" alt="Ashish Kumar - Cloud &amp; DevOps Engineer"/>
 
 ### 👋 Hi, I'm **Ashish Kumar**
 
