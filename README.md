@@ -448,7 +448,7 @@ Security Scanning
 </a>
 
 <a href="https://github.com/ashishkumar-devops">
-<img src="https://img.shields.io/badge/GitHub-ashishkumar-devops-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ashishkumar--devops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:ashishfromgola@gmail.com">
