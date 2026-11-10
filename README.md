@@ -447,7 +447,7 @@ Security Scanning
 <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/devopsbyashish">
+<a href="https://github.com/ashishkumar-devops">
 <img src="https://img.shields.io/badge/GitHub-devopsbyashish-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
